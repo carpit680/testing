@@ -5,7 +5,7 @@
 UNIT TESTING is a type of software testing where individual units or components of the software are tested. The purpose is to validate that each unit of the software code performs as expected. Unit Testing is done during the development (coding phase) of an application by the developers. Unit Tests isolate a section of code and verify its correctness. A unit may be an individual function, method, procedure, module, or object.
 
 
-![image](testing/Unit-Testing.png "Unit Testing")
+![image](Unit-Testing.png "Unit Testing")
 
 
 Here, are the key reasons to perform unit testing in software engineering:
